@@ -1,6 +1,4 @@
-# Social-Science-Research-With-Image-Data
-
->List of the research analyzing image data
+# Social Science Paper with Image as Data
 
 - Joo, J., Li, W., Steen, F. F., \& Zhu, S. C. (2014). Visual persuasion: Inferring communicative intents of images. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 216-223). [[html]](https://ieeexplore.ieee.org/document/6909429?arnumber=6909429)
 
