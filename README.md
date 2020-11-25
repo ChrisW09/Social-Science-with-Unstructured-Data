@@ -4,8 +4,6 @@
 
 - Schwemmer, C., Knight, C., Bello-Pardo, E. D., Oklobdzija, S., Schoonvelde, M., \& Lockhart, J. W. (2020). Diagnosing Gender Bias in Image Recognition Systems. *Socius, 6*. [https://doi.org/10.1177/2378023120967171](https://doi.org/10.1177/2378023120967171)
 
-  - Description: Gender bias in commercial image recognition systems  
-
 - Zhang, H., \& Pan, J. (2019). Casm: A deep-learning approach for identifying collective action events with text and image data from social media. *Sociological Methodology, 49*(1), 1-57. [https://doi.org/10.1177/0081175019860244](https://doi.org/10.1177/0081175019860244)
 
   - Description: Transfer learning with VGG16 on photos and LSTM on text to predict the collective actions through social media posts.
