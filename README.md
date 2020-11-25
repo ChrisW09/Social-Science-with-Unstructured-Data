@@ -1,5 +1,7 @@
 # Research Papers with Image as Data
 
+## Research Papers
+
 - Schwemmer, C., Knight, C., Bello-Pardo, E. D., Oklobdzija, S., Schoonvelde, M., \& Lockhart, J. W. (2020). Diagnosing Gender Bias in Image Recognition Systems. *Socius, 6*. [https://doi.org/10.1177/2378023120967171](https://doi.org/10.1177/2378023120967171)
 
   - Description: Gender bias in commercial image recognition systems  
@@ -18,8 +20,6 @@
 
 - Joo, J., Bucy, E. P., \& Seidel, C. (2019). Automated Coding of Televised Leader Displays: Detecting Nonverbal Political Behavior With Computer Vision and Deep Learning. *International Journal of Communication, 13*. [https://ijoc.org/index.php/ijoc/article/view/10725](https://ijoc.org/index.php/ijoc/article/view/10725)
 
-- Joo, J., \& Steinert-Threlkeld, Z. C. (2018). Image as data: Automated visual content analysis for political science. *arXiv preprint* arXiv:1810.01544. [https://arxiv.org/abs/1810.01544](https://arxiv.org/abs/1810.01544)
-
 - Joo, J., Li, W., Steen, F. F., \& Zhu, S. C. (2014). Visual persuasion: Inferring communicative intents of images. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 216-223). [https://ieeexplore.ieee.org/document/6909429?arnumber=6909429](https://ieeexplore.ieee.org/document/6909429?arnumber=6909429)
 
 - Choi, J., Lee, S. Y., \& Ji, S. W. (2020). Engagement in Emotional News on Social Media: Intensity and Type of Emotions. *Journalism \& Mass Communication Quarterly*. [https://doi.org/10.1177/1077699020959718](https://doi.org/10.1177/1077699020959718)
@@ -36,4 +36,10 @@
 
 - Garimella, K., \& Eckles, D. (2020). Images and Misinformation in Political Groups: Evidence from WhatsApp in India. *arXiv preprint* [https://arxiv.org/abs/2005.09784](https://arxiv.org/abs/2005.09784)
 
+## General Review Papers
+
 - Cantú, F., \& Torres, M. (2020). Learning to See: Visual Analysis for Social Science Data. *Political Analysis*, forthcoming. [preprint pdf](https://franciscocantu.github.io/Papers/LearningToSee_Main.pdf)
+
+- Williams, N. W., Casas, A., \& Wilkerson, J. D. (2020). Images as Data for Social Science Research: An Introduction to Convolutional Neural Nets for Image Classification. Cambridge University Press.
+
+- Joo, J., \& Steinert-Threlkeld, Z. C. (2018). Image as data: Automated visual content analysis for political science. *arXiv preprint* arXiv:1810.01544. [https://arxiv.org/abs/1810.01544](https://arxiv.org/abs/1810.01544)
