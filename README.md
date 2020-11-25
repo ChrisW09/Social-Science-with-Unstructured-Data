@@ -34,6 +34,8 @@
 
 - Garimella, K., \& Eckles, D. (2020). Images and Misinformation in Political Groups: Evidence from WhatsApp in India. *arXiv preprint* [https://arxiv.org/abs/2005.09784](https://arxiv.org/abs/2005.09784)
 
+- Neumann, M. (2020). Fair and Balanced? News Media Bias in the Photographic Coverage of the 2016 U.S. Presidential Election. [[preprint]](https://markusneumann.github.io/research/mediabias)
+
 ## General Review Papers
 
 - Cantú, F., \& Torres, M. (2020). Learning to See: Visual Analysis for Social Science Data. *Political Analysis*, forthcoming. [[preprint pdf]](https://franciscocantu.github.io/Papers/LearningToSee_Main.pdf)
