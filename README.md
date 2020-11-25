@@ -4,7 +4,7 @@
 
 - Zhang, H., \& Pan, J. (2019). Casm: A deep-learning approach for identifying collective action events with text and image data from social media. *Sociological Methodology, 49*(1), 1-57. [https://doi.org/10.1177/0081175019860244](https://doi.org/10.1177/0081175019860244)
 
-  - Description: Transfer learning with VGG16 on photos and LSTM on text to predict the collective actions through social media posts.
+ - Description: Transfer learning with VGG16 on photos and LSTM on text to predict the collective actions through social media posts.
 
 - Boussalis, C., \& Coan, T. G. (2020). Facing the electorate: Computational approaches to the study of nonverbal communication and voter impression formation. *Political Communication*, 1-23. [https://doi.org/10.1080/10584609.2020.1784327](https://doi.org/10.1080/10584609.2020.1784327)
 
