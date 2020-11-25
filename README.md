@@ -2,6 +2,8 @@
 
 - Schwemmer, C., Knight, C., Bello-Pardo, E. D., Oklobdzija, S., Schoonvelde, M., \& Lockhart, J. W. (2020). Diagnosing Gender Bias in Image Recognition Systems. *Socius, 6*. [https://doi.org/10.1177/2378023120967171](https://doi.org/10.1177/2378023120967171)
 
+  - Description: Gender bias in commercial image recognition systems  
+
 - Zhang, H., \& Pan, J. (2019). Casm: A deep-learning approach for identifying collective action events with text and image data from social media. *Sociological Methodology, 49*(1), 1-57. [https://doi.org/10.1177/0081175019860244](https://doi.org/10.1177/0081175019860244)
 
   - Description: Transfer learning with VGG16 on photos and LSTM on text to predict the collective actions through social media posts.
@@ -16,7 +18,7 @@
 
 - Joo, J., Bucy, E. P., \& Seidel, C. (2019). Automated Coding of Televised Leader Displays: Detecting Nonverbal Political Behavior With Computer Vision and Deep Learning. *International Journal of Communication, 13*. [https://ijoc.org/index.php/ijoc/article/view/10725](https://ijoc.org/index.php/ijoc/article/view/10725)
 
-- Joo, J., \& Steinert-Threlkeld, Z. C. (2018). Image as data: Automated visual content analysis for political science. *arXiv preprint* arXiv:1810.01544. [https://arxiv.org/pdf/1810.01544.pdf](https://arxiv.org/pdf/1810.01544.pdf)
+- Joo, J., \& Steinert-Threlkeld, Z. C. (2018). Image as data: Automated visual content analysis for political science. *arXiv preprint* arXiv:1810.01544. [https://arxiv.org/abs/1810.01544](https://arxiv.org/abs/1810.01544)
 
 - Joo, J., Li, W., Steen, F. F., \& Zhu, S. C. (2014). Visual persuasion: Inferring communicative intents of images. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 216-223). [https://ieeexplore.ieee.org/document/6909429?arnumber=6909429](https://ieeexplore.ieee.org/document/6909429?arnumber=6909429)
 
@@ -29,3 +31,7 @@
 - Park, H., Song, J., Han, K., \& Kim, S. W. (2018, July). I Like Your Tagged Photos, But Do We Know Each Other?: Analyzing the Role of Tags in Like Networks. In *2018 IEEE International Conference on Web Services (ICWS)* (pp. 335-338). [https://ieeexplore.ieee.org/document/8456372](https://ieeexplore.ieee.org/document/8456372)
 
 - Han, K., Jo, Y., Jeon, Y., Kim, B., Song, J., \& Kim, S. W. (2018, July). Photos don't have me, but how do you know me? Analyzing and predicting users on Instagram. In *Adjunct publication of the 26th conference on user modeling, adaptation and personalization* (pp. 251-256). [https://doi.org/10.1145/3213586.3225232](https://doi.org/10.1145/3213586.3225232)
+
+- Geboers, M. A., \& Van De Wiele, C. T. (2020). Machine Vision and Social Media Images: Why Hashtags Matter. *Social Media+ Society, 6*(2). [https://doi.org/10.1177/2056305120928485](https://doi.org/10.1177/2056305120928485)
+
+- Garimella, K., \& Eckles, D. (2020). Images and Misinformation in Political Groups: Evidence from WhatsApp in India. *arXiv preprint* [https://arxiv.org/abs/2005.09784](https://arxiv.org/abs/2005.09784)
