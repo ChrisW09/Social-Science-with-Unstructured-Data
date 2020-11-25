@@ -28,6 +28,14 @@
 
 - Park, H., Song, J., Han, K., \& Kim, S. W. (2018, July). I Like Your Tagged Photos, But Do We Know Each Other?: Analyzing the Role of Tags in Like Networks. In *2018 IEEE International Conference on Web Services (ICWS)* (pp. 335-338). [https://ieeexplore.ieee.org/document/8456372](https://ieeexplore.ieee.org/document/8456372)
 
+- Kim, Y., \& Kim, J. H. (2018). Using computer vision techniques on Instagram to link users’ personalities and genders to the features of their photos: An exploratory study. *Information Processing & Management, 54*(6), 1101-1114. [https://doi.org/10.1016/j.ipm.2018.07.005](https://doi.org/10.1016/j.ipm.2018.07.005)
+
+- Kim, J. H., \& Kim, Y. (2019). Instagram user characteristics and the color of their photos: Colorfulness, color diversity, and color harmony. *Information Processing \& Management, 56*(4), 1494-1505. [https://doi.org/10.1016/j.ipm.2018.10.018](https://doi.org/10.1016/j.ipm.2018.10.018)
+
+- Kim, Y., Song, D., \& Lee, Y. J. (2020). \#Antivaccination on Instagram: A Computational Analysis of Hashtag Activism through Photos and Public Responses. *International Journal of Environmental Research and Public Health, 17*(20), 7550. [https://doi.org/10.3390/ijerph17207550](https://doi.org/10.3390/ijerph17207550)
+
+- Kim, Y., \& Kim, J. H. (2020). Using photos for public health communication: A computational analysis of the Centers for Disease Control and Prevention Instagram photos and public responses. *Health Informatics Journal*. [https://doi.org/10.1177/1460458219896673](https://doi.org/10.1177/1460458219896673)
+
 - Han, K., Jo, Y., Jeon, Y., Kim, B., Song, J., \& Kim, S. W. (2018, July). Photos don't have me, but how do you know me? Analyzing and predicting users on Instagram. In *Adjunct publication of the 26th conference on user modeling, adaptation and personalization* (pp. 251-256). [https://doi.org/10.1145/3213586.3225232](https://doi.org/10.1145/3213586.3225232)
 
 - Geboers, M. A., \& Van De Wiele, C. T. (2020). Machine Vision and Social Media Images: Why Hashtags Matter. *Social Media+ Society, 6*(2). [https://doi.org/10.1177/2056305120928485](https://doi.org/10.1177/2056305120928485)
