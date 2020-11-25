@@ -35,3 +35,5 @@
 - Geboers, M. A., \& Van De Wiele, C. T. (2020). Machine Vision and Social Media Images: Why Hashtags Matter. *Social Media+ Society, 6*(2). [https://doi.org/10.1177/2056305120928485](https://doi.org/10.1177/2056305120928485)
 
 - Garimella, K., \& Eckles, D. (2020). Images and Misinformation in Political Groups: Evidence from WhatsApp in India. *arXiv preprint* [https://arxiv.org/abs/2005.09784](https://arxiv.org/abs/2005.09784)
+
+- Cantú, F., \& Torres, M. (2020). Learning to See: Visual Analysis for Social Science Data. *Political Analysis*, forthcoming. [preprint pdf](https://franciscocantu.github.io/Papers/LearningToSee_Main.pdf)
