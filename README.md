@@ -53,3 +53,7 @@
 - Williams, N. W., Casas, A., & Wilkerson, J. D. (2020). Images as Data for Social Science Research: An Introduction to Convolutional Neural Nets for Image Classification. Cambridge University Press.
 
 - Joo, J., & Steinert-Threlkeld, Z. C. (2018). Image as data: Automated visual content analysis for political science. *arXiv preprint* arXiv:1810.01544. [https://arxiv.org/abs/1810.01544](https://arxiv.org/abs/1810.01544)
+
+## Not Deep Learning
+
+- Guilbeault, D., Nadler, E. O., Chu, M., Sardo, D. R. L., Kar, A. A., & Desikan, B. S. (2020). Color associations in abstract semantic domains. Cognition, 201. [https://doi.org/10.1016/j.cognition.2020.104306](https://doi.org/10.1016/j.cognition.2020.104306)
