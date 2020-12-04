@@ -9,6 +9,8 @@
 - Zhang, H., & Pan, J. (2019). Casm: A deep-learning approach for identifying collective action events with text and image data from social media. *Sociological Methodology, 49*(1), 1-57. [https://doi.org/10.1177/0081175019860244](https://doi.org/10.1177/0081175019860244)
 
   - Description: Transfer learning with VGG16 on photos and LSTM on text to predict the collective actions through social media posts.
+  
+- Guilbeault, D., Nadler, E. O., Chu, M., Sardo, D. R. L., Kar, A. A., & Desikan, B. S. (2020). Color associations in abstract semantic domains. *Cognition, 201*. [https://doi.org/10.1016/j.cognition.2020.104306](https://doi.org/10.1016/j.cognition.2020.104306)
 
 - Boussalis, C., & Coan, T. G. (2020). Facing the electorate: Computational approaches to the study of nonverbal communication and voter impression formation. *Political Communication*, 1-23. [https://doi.org/10.1080/10584609.2020.1784327](https://doi.org/10.1080/10584609.2020.1784327)
 
@@ -47,10 +49,6 @@
 - Kim, Y., & Kim, J. H. (2020). Using photos for public health communication: A computational analysis of the Centers for Disease Control and Prevention Instagram photos and public responses. *Health Informatics Journal*. [https://doi.org/10.1177/1460458219896673](https://doi.org/10.1177/1460458219896673)
 
 - Han, K., Jo, Y., Jeon, Y., Kim, B., Song, J., & Kim, S. W. (2018, July). Photos don't have me, but how do you know me? Analyzing and predicting users on Instagram. In *Adjunct publication of the 26th conference on user modeling, adaptation and personalization* (pp. 251-256). [https://doi.org/10.1145/3213586.3225232](https://doi.org/10.1145/3213586.3225232)
-
-### Not Deep Learning (without DL)
-
-- Guilbeault, D., Nadler, E. O., Chu, M., Sardo, D. R. L., Kar, A. A., & Desikan, B. S. (2020). Color associations in abstract semantic domains. *Cognition, 201*. [https://doi.org/10.1016/j.cognition.2020.104306](https://doi.org/10.1016/j.cognition.2020.104306)
 
 ### General Review Papers
 
