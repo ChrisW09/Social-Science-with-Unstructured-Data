@@ -70,4 +70,4 @@
 
 - Proksch, S. O., Wratil, C., & Wäckerle, J. (2019). Testing the validity of automatic speech recognition for political text analysis. Political Analysis, 27(3), 339-359. [https://doi.org/10.1017/pan.2018.62](https://doi.org/10.1017/pan.2018.62)
 
-- Rheault, L., & Borwein, S. (2019). Multimodal Techniques for the Study of Affect in Political Videos. preprint. [[preprint]](https://polmeth.mit.edu/sites/default/files/documents/RheaultBorwein_PolMeth2019.pdf)
+- Rheault, L., & Borwein, S. (2019). Multimodal Techniques for the Study of Affect in Political Videos. preprint. [[preprint pdf]](https://polmeth.mit.edu/sites/default/files/documents/RheaultBorwein_PolMeth2019.pdf)
