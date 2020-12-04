@@ -1,6 +1,8 @@
-# Research Papers with Image as Data
+# Unstructured Data and Social Science
 
-## Research Papers
+## Image Data
+
+### Research Papers (with DL)
 
 - Schwemmer, C., Knight, C., Bello-Pardo, E. D., Oklobdzija, S., Schoonvelde, M., & Lockhart, J. W. (2020). Diagnosing Gender Bias in Image Recognition Systems. *Socius, 6*. [https://doi.org/10.1177/2378023120967171](https://doi.org/10.1177/2378023120967171)
 
@@ -46,7 +48,11 @@
 
 - Han, K., Jo, Y., Jeon, Y., Kim, B., Song, J., & Kim, S. W. (2018, July). Photos don't have me, but how do you know me? Analyzing and predicting users on Instagram. In *Adjunct publication of the 26th conference on user modeling, adaptation and personalization* (pp. 251-256). [https://doi.org/10.1145/3213586.3225232](https://doi.org/10.1145/3213586.3225232)
 
-## General Review Papers
+### Not Deep Learning (without DL)
+
+- Guilbeault, D., Nadler, E. O., Chu, M., Sardo, D. R. L., Kar, A. A., & Desikan, B. S. (2020). Color associations in abstract semantic domains. *Cognition, 201*. [https://doi.org/10.1016/j.cognition.2020.104306](https://doi.org/10.1016/j.cognition.2020.104306)
+
+### General Review Papers
 
 - Cantú, F., & Torres, M. (2020). Learning to See: Visual Analysis for Social Science Data. *Political Analysis*, forthcoming. [[preprint pdf]](https://franciscocantu.github.io/Papers/LearningToSee_Main.pdf)
 
@@ -54,6 +60,14 @@
 
 - Joo, J., & Steinert-Threlkeld, Z. C. (2018). Image as data: Automated visual content analysis for political science. *arXiv preprint* arXiv:1810.01544. [https://arxiv.org/abs/1810.01544](https://arxiv.org/abs/1810.01544)
 
-## Not Deep Learning
+## Audio Data
 
-- Guilbeault, D., Nadler, E. O., Chu, M., Sardo, D. R. L., Kar, A. A., & Desikan, B. S. (2020). Color associations in abstract semantic domains. *Cognition, 201*. [https://doi.org/10.1016/j.cognition.2020.104306](https://doi.org/10.1016/j.cognition.2020.104306)
+### Research Papers
+
+- Mehr, S. A., Singh, M., Knox, D., Ketter, D. M., Pickens-Jones, D., Atwood, S., ... & Howard, R. M. (2019). Universality and diversity in human song. Science, 366(6468). [https://doi.org/10.1126/science.aax0868](https://doi.org/10.1126/science.aax0868)
+
+- Knox, D., & Lucas, C. (2019). A dynamic model of speech for the social sciences. Available at SSRN. [http://dx.doi.org/10.2139/ssrn.3490753](http://dx.doi.org/10.2139/ssrn.3490753)
+
+- Proksch, S. O., Wratil, C., & Wäckerle, J. (2019). Testing the validity of automatic speech recognition for political text analysis. Political Analysis, 27(3), 339-359. [https://doi.org/10.1017/pan.2018.62](https://doi.org/10.1017/pan.2018.62)
+
+- Rheault, L., & Borwein, S. (2019). Multimodal Techniques for the Study of Affect in Political Videos. preprint. [[preprint]](https://polmeth.mit.edu/sites/default/files/documents/RheaultBorwein_PolMeth2019.pdf)
